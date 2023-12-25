@@ -1,0 +1,8 @@
+scikit-learn
+tensorflow
+pandas
+numpy
+flask
+joblib
+librosa
+flask_cors
